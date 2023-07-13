@@ -1,0 +1,5 @@
+git init
+git status
+ls -la
+git add Prikazy.txt (git add *)
+git commit -m "přidal jsem další změnu"
