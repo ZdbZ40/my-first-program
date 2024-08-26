@@ -1,0 +1,12 @@
+git init
+git status
+ls -la
+git add Prikazy.txt (git add .) (git add *.png)
+git commit -m "přidal jsem další změnu" (git commit -am "sdasd")jen pro upravované soubory a nemusíš dát add
+
+git log (q vyskocis ven)
+git log --graph --decorate --abbrev-commit --all
+
+git checkout 5644646
+git master
+
